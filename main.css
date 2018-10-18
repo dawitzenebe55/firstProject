@@ -1,12 +1,20 @@
 body {
-    background: violet; 
-    color:yellow;
+    background: violet;
+    color: firebrick;
 }
-#firstparagraph {
-    font-size: 36px;
+#firstParagraph {
+    font-size: 88px;
     font-weight: bold;
+    color: greenyellow;
+    font-family: cursive;
 }
 
 .headers {
     font-family: arial;
+    font-size: 50px;
     text-align: center;
+    color: white;
+    
+    
+}
+
