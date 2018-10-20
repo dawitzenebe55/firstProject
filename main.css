@@ -1,5 +1,5 @@
 body {
-    background: violet;
+    background: yellow;
     color: firebrick;
 }
 #firstParagraph {
@@ -7,6 +7,7 @@ body {
     font-weight: bold;
     color: greenyellow;
     font-family: cursive;
+    
 }
 
 .headers {
